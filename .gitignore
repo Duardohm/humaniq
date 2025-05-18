@@ -153,5 +153,8 @@ node_modules
 psd
 thumb
 sketch
+<<<<<<< HEAD
 
 # End of https://www.toptal.com/developers/gitignore/api/react,node
+=======
+>>>>>>> 19602e1536ae224197a4f07fb9cc3dd2f7316bde
